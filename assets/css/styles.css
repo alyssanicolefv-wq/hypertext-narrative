@@ -81,11 +81,3 @@ a:hover{
 a:visited{
     color: #7d0aad;
 }
-
-.couch {
-    background-image: url('img/home-bg.jpg');
-}
-
-.ending1 {
-    background-image: url('img/about-bg.jpg');
-}
